@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"U:/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"U:/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/healthbar.uasset",
+				"U:/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"U:/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Healthpickup.uasset",
+				"U:/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"U:/Desktop/CS415/MP1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/MP1/Content/InfiniteMatrix/Blueprints/Healthpickup.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/MP1/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/MP1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/MP1/Content/InfiniteMatrix/Blueprints/WB_Scoreboard.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/MP1/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/MP1/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/MP1/Content/InfiniteMatrix/UI/Hitindicator.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/MP1/Content/InfiniteMatrix/Blueprints/Score.uasset",
+				"/Users/alichaudry/Dropbox/Ali/SPRING2024/CS415/MP1/Content/InfiniteMatrix/Blueprints/Score_system.uasset",
+				"U:/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthWidget.uasset"
+			]
+		}
+	]
+}
